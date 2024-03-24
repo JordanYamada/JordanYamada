@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Jordan Yamada's GitHub Profile! 👋
 
 Hello there! I'm Jordan Yamada, a full-stack developer who is eagerly anticipating the future of AI. I'm delighted to have you visit my GitHub profile, where you'll find a curated collection of projects, contributions, and experiments that reflect my journey in full-stack development, alongside some delightful conversations about AI and the perfect cup of pumpkin spiced coffee.
 
@@ -9,7 +9,7 @@ I'm a full-stack developer with a passion for building innovative web applicatio
 - **Projects**: Dive into my repositories to explore a variety of projects, ranging from full-stack web applications, APIs, and databases to AI-driven solutions and more.
 - **Language Activity**: Take a look at my language activity over the past year. You'll notice that I'm proficient in a wide range of languages and technologies, with a particular emphasis on those relevant to both full-stack development and AI.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanYamadae&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
 I'm always eager to connect with fellow developers, AI enthusiasts, and coffee lovers! Feel free to reach out to me via:
@@ -21,15 +21,13 @@ Are you interested in collaborating on full-stack projects, exploring AI-driven 
 
 ## Let's Connect!
 Thank you for stopping by! Connect with me, explore my projects, and let's embark on a journey of innovation and discovery together. Whether it's building robust web applications, shaping the future of AI, or simply enjoying a cup of pumpkin spiced coffee, I'm excited to collaborate and make a difference. Happy coding! 🚀
-[![GitHub Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub Follow](https://img.shields.io/github/followers/JordanYamada?label=Follow&style=social)](https://github.com/JordanYamada)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on another project, most likely
+- 🌱 I’m currently learning how to work with ThreeJS, FastAPI and AI(of course). 
+- 👯 I’m looking to collaborate on anything, really!
+- 🤔 I’m looking for help with becoming more involved in the metaverse and AI communities.
+- 💬 Ask me about my weakness for all things pumkin-spiced...
+- 📫 How to reach me: [Email](mailto:sadaotomokane@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-yamada/)
+- ⚡ Fun fact: I once accidentally competed in the annual world igloo building championships.
