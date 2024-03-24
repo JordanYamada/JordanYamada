@@ -24,9 +24,6 @@ I'm a full-stack developer with a passion for building innovative web applicatio
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sql">
-</a>
 
 
 <!-- <a href="https://github.com/harish-sethuraman/readme-components">
@@ -42,6 +39,7 @@ I'm a full-stack developer with a passion for building innovative web applicatio
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
+
 - **Language Activity**: Take a look at my language activity over the past year. You'll notice that I'm proficient in a wide range of languages and technologies, with a particular emphasis on those relevant to both full-stack development and AI.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanYamada&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
