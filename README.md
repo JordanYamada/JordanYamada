@@ -9,7 +9,7 @@ I'm a full-stack developer with a passion for building innovative web applicatio
 - **Projects**: Dive into my repositories to explore a variety of projects, ranging from full-stack web applications, APIs, and databases to AI-driven solutions and more.
 - **Language Activity**: Take a look at my language activity over the past year. You'll notice that I'm proficient in a wide range of languages and technologies, with a particular emphasis on those relevant to both full-stack development and AI.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanYamadae&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanYamada&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
 I'm always eager to connect with fellow developers, AI enthusiasts, and coffee lovers! Feel free to reach out to me via:
