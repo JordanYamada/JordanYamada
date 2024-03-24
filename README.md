@@ -7,6 +7,8 @@ I'm a full-stack developer with a passion for building innovative web applicatio
 
 ## What You'll Find Here
 - **Projects**: Dive into my repositories to explore a variety of projects, ranging from full-stack web applications, APIs, and databases to AI-driven solutions and more.
+- **Things I Use Regularly**
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=ccc0cd)
 - **Language Activity**: Take a look at my language activity over the past year. You'll notice that I'm proficient in a wide range of languages and technologies, with a particular emphasis on those relevant to both full-stack development and AI.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanYamada&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,5 +33,3 @@ Thank you for stopping by! Connect with me, explore my projects, and let's embar
 - 💬 Ask me about my weakness for all things pumkin-spiced...
 - 📫 How to reach me: [Email](mailto:sadaotomokane@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-yamada/)
 - ⚡ Fun fact: I once accidentally competed in the annual world igloo building championships.
-
-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
