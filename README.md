@@ -8,7 +8,43 @@ I'm a full-stack developer with a passion for building innovative web applicatio
 ## What You'll Find Here
 - **Projects**: Dive into my repositories to explore a variety of projects, ranging from full-stack web applications, APIs, and databases to AI-driven solutions and more.
 - **Things I Use Regularly**
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=ccc0cd)
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongo&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=df5c43">  
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postresql&svgfill=8ed5fa">
+</a>  
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+
+
+<!-- <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a> -->
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
 - **Language Activity**: Take a look at my language activity over the past year. You'll notice that I'm proficient in a wide range of languages and technologies, with a particular emphasis on those relevant to both full-stack development and AI.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanYamada&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
