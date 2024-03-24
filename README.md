@@ -31,3 +31,5 @@ Thank you for stopping by! Connect with me, explore my projects, and let's embar
 - 💬 Ask me about my weakness for all things pumkin-spiced...
 - 📫 How to reach me: [Email](mailto:sadaotomokane@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-yamada/)
 - ⚡ Fun fact: I once accidentally competed in the annual world igloo building championships.
+
+- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
